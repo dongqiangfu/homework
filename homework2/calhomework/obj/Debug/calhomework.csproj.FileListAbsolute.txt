@@ -1,0 +1,40 @@
+C:\Users\lenovo\source\repos\calhomework\calhomework\bin\Debug\calhomework.exe.config
+C:\Users\lenovo\source\repos\calhomework\calhomework\bin\Debug\calhomework.exe
+C:\Users\lenovo\source\repos\calhomework\calhomework\bin\Debug\calhomework.pdb
+C:\Users\lenovo\source\repos\calhomework\calhomework\obj\Debug\calhomework.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\calhomework\calhomework\obj\Debug\calhomework.Form1.resources
+C:\Users\lenovo\source\repos\calhomework\calhomework\obj\Debug\calhomework.Properties.Resources.resources
+C:\Users\lenovo\source\repos\calhomework\calhomework\obj\Debug\calhomework.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\calhomework\calhomework\obj\Debug\calhomework.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\calhomework\calhomework\obj\Debug\calhomework.exe
+C:\Users\lenovo\source\repos\calhomework\calhomework\obj\Debug\calhomework.pdb
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\bin\Debug\calhomework.exe.config
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\bin\Debug\calhomework.exe
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\bin\Debug\calhomework.pdb
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\obj\Debug\calhomework.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\obj\Debug\calhomework.Form1.resources
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\obj\Debug\calhomework.Properties.Resources.resources
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\obj\Debug\calhomework.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\obj\Debug\calhomework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\obj\Debug\calhomework.exe
+C:\Users\HP\Documents\Tencent Files\2430249817\FileRecv\calhomework\calhomework\obj\Debug\calhomework.pdb
+C:\Users\lenovo\Desktop\calhomework\calhomework\bin\Debug\calhomework.exe.config
+C:\Users\lenovo\Desktop\calhomework\calhomework\bin\Debug\calhomework.exe
+C:\Users\lenovo\Desktop\calhomework\calhomework\bin\Debug\calhomework.pdb
+C:\Users\lenovo\Desktop\calhomework\calhomework\obj\Debug\calhomework.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\calhomework\calhomework\obj\Debug\calhomework.Form1.resources
+C:\Users\lenovo\Desktop\calhomework\calhomework\obj\Debug\calhomework.Properties.Resources.resources
+C:\Users\lenovo\Desktop\calhomework\calhomework\obj\Debug\calhomework.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\calhomework\calhomework\obj\Debug\calhomework.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\calhomework\calhomework\obj\Debug\calhomework.exe
+C:\Users\lenovo\Desktop\calhomework\calhomework\obj\Debug\calhomework.pdb
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\obj\Debug\calhomework.csprojAssemblyReference.cache
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\obj\Debug\calhomework.Form1.resources
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\obj\Debug\calhomework.Properties.Resources.resources
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\obj\Debug\calhomework.csproj.GenerateResource.cache
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\obj\Debug\calhomework.csproj.CoreCompileInputs.cache
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\obj\Debug\calhomework.exe
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\obj\Debug\calhomework.pdb
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\bin\Debug\calhomework.exe.config
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\bin\Debug\calhomework.exe
+C:\Users\阿苏斯、\Documents\Tencent Files\1833062852\FileRecv\作业三修改版\作业三修改版\calhomework\bin\Debug\calhomework.pdb
